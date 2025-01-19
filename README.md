@@ -9,4 +9,5 @@ readed books notes and resumes.
  - [*Code Complete 2*, Steve McConnell](general_topics/code_complete_2.md)
 
 ## Ruby
+ - [*Eloquent Ruby* by Russ Olsen](ruby/eloquent_ruby.md)
  - [*Practical Object-Oriented Design in Ruby: An Agile Primer* by Sandi Metz](ruby/poodr.md)
