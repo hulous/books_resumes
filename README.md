@@ -11,4 +11,5 @@ readed books notes and resumes.
 ## Ruby
  - [*Eloquent Ruby* by Russ Olsen](ruby/eloquent_ruby.md)
  - [*The Rails Way* by Obie Fernandez](ruby/rails_way.md)
+ - [*The Ruby Way* by Hal Fulton and André Arko](ruby/ruby_way.md)
  - [*Practical Object-Oriented Design in Ruby: An Agile Primer* by Sandi Metz](ruby/poodr.md)
