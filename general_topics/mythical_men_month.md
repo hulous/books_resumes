@@ -1,4 +1,4 @@
-# Summary of *The Mythical Man-Month* by Frederick P. Brooks
+# *The Mythical Man-Month* by Frederick P. Brooks
 
 ## Overview
 Published in 1975, *The Mythical Man-Month: Essays on Software Engineering* explores the challenges of managing large software projects. Drawing from Brooks's experience leading the IBM System/360 project, the book presents timeless insights into software engineering, teamwork, and project management, emphasizing the pitfalls of scaling development efforts.
