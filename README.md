@@ -6,4 +6,4 @@ readed books notes and resumes.
 
 ## Ruby
  - [*Eloquent Ruby* by Russ Olsen](ruby/eloquent_ruby.md)
- 
+ - [*The Rails Way* by Obie Fernandez](ruby/rails_way.md)
