@@ -88,9 +88,6 @@ The book discusses common object-oriented design patterns, including:
 
 ---
 
-## Writing Style
-The book is practical and hands-on, with clear explanations, code examples, and exercises. Sandi Metz provides real-world examples of refactoring poorly designed code into clean, object-oriented solutions.
-
 ## Legacy
 *POODR* is highly regarded as a guide to writing maintainable and elegant object-oriented code. While Ruby is the language used, the book’s lessons are language-agnostic and apply to all object-oriented programming paradigms.
 

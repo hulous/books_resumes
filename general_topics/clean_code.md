@@ -96,9 +96,6 @@ Published in 2008, *Clean Code* by Robert C. Martin (commonly referred to as "Un
 
 ---
 
-## Writing Style
-The book is practical and opinionated, using numerous code examples to illustrate its points. It challenges readers to think critically about their coding habits and strive for excellence in their craft.
-
 ## Legacy
 *Clean Code* has become a must-read for software developers, emphasizing the importance of craftsmanship, professionalism, and attention to detail. Its principles have significantly influenced modern coding practices and Agile methodologies.
 
