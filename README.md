@@ -17,3 +17,4 @@ Readed books notes and resumes.
  - [*Programming Ruby: The Pragmatic Programmer's Guide* ("The Pickaxe") by Dave Thomas, with Chad Fowler and Andy Hunt](ruby/pickaxe.md)
  - [*Polished Ruby Programming* by Jeremy Evans](ruby/polished_ruby.md)
  - [*Practical Object-Oriented Design in Ruby: An Agile Primer* by Sandi Metz](ruby/poodr.md)
+ - [*Refactoring: Ruby Edition* by Jay Fields, Shane Harvie, and Martin Fowler](ruby/refactoring_ruby.md)
