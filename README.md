@@ -9,6 +9,7 @@ Readed books notes and resumes.
  - [*Code Complete 2*, Steve McConnell](general_topics/code_complete_2.md)
  - [*Refactoring: Improving the Design of Existing Code* by Martin Fowler](general_topics/refactoring.md)
  - [*Extreme Programming Explained: Embrace Change* by Kent Beck](general_topics/xp.md)
+ - [*Object Thinking* by David West](general_topics/object_thinking.md)
 
 ## Ruby
  - [*Eloquent Ruby* by Russ Olsen](ruby/eloquent_ruby.md)
