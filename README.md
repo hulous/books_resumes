@@ -9,6 +9,7 @@ Readed books notes and resumes.
  - [*Code Complete 2*, Steve McConnell](general_topics/code_complete_2.md)
  - [*Refactoring: Improving the Design of Existing Code* by Martin Fowler](general_topics/refactoring.md)
  - [*Extreme Programming Explained: Embrace Change* by Kent Beck](general_topics/xp.md)
+ - [*Implementation Patterns* by Kent Beck](general_topics/implementation_patterns.md)
  - [*Object Thinking* by David West](general_topics/object_thinking.md)
  - [*Principles of Web API Design* by James Higginbotham](general_topics/web_api_design.md)
  - [*Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman* by Dave Hoover and Adewale Oshineye](general_topics/apprenticeship_patterns.md)
