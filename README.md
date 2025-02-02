@@ -10,6 +10,11 @@ Readed books notes and resumes.
  - [*Refactoring: Improving the Design of Existing Code* by Martin Fowler](general_topics/refactoring.md)
  - [*Extreme Programming Explained: Embrace Change* by Kent Beck](general_topics/xp.md)
  - [*Object-Oriented Analysis and Design with Applications* by Grady Booch](general_topics/ooad.md)
+ - [*Implementation Patterns* by Kent Beck](general_topics/implementation_patterns.md)
+ - [*Object Thinking* by David West](general_topics/object_thinking.md)
+ - [*Principles of Web API Design* by James Higginbotham](general_topics/web_api_design.md)
+ - [*Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman* by Dave Hoover and Adewale Oshineye](general_topics/apprenticeship_patterns.md)
+ - [*Growing Object-Oriented Software, Guided by Tests* by Steve Freeman & Nat Pryce](general_topics/growing_oop.md)
 
 ## Ruby
  - [*Eloquent Ruby* by Russ Olsen](ruby/eloquent_ruby.md)
@@ -19,3 +24,4 @@ Readed books notes and resumes.
  - [*Polished Ruby Programming* by Jeremy Evans](ruby/polished_ruby.md)
  - [*Practical Object-Oriented Design in Ruby: An Agile Primer* by Sandi Metz](ruby/poodr.md)
  - [*Refactoring: Ruby Edition* by Jay Fields, Shane Harvie, and Martin Fowler](ruby/refactoring_ruby.md)
+ - [*Domain-Specific Languages* by Martin Fowler](ruby/dsl.md)
