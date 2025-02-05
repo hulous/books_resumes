@@ -17,6 +17,7 @@ Readed books notes and resumes.
  - [*Principles of Web API Design* by James Higginbotham](general_topics/web_api_design.md)
  - [*Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman* by Dave Hoover and Adewale Oshineye](general_topics/apprenticeship_patterns.md)
  - [*Growing Object-Oriented Software, Guided by Tests* by Steve Freeman & Nat Pryce](general_topics/growing_oop.md)
+ - [*Modern Software Engineering: Doing What Works to Build Better Software Faster* by David Farley](general_topics/modern_software_engineering.md)
 
 ## Ruby
  - [*Eloquent Ruby* by Russ Olsen](ruby/eloquent_ruby.md)
