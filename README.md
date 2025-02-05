@@ -18,6 +18,7 @@ Readed books notes and resumes.
  - [*Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman* by Dave Hoover and Adewale Oshineye](general_topics/apprenticeship_patterns.md)
  - [*Growing Object-Oriented Software, Guided by Tests* by Steve Freeman & Nat Pryce](general_topics/growing_oop.md)
  - [*Modern Software Engineering: Doing What Works to Build Better Software Faster* by David Farley](general_topics/modern_software_engineering.md)
+ - [*The Software Craftsman: Professionalism, Pragmatism, and Pride* by Sandro Mancuso](general_topics/software_craftsman.md)
 
 ## Ruby
  - [*Eloquent Ruby* by Russ Olsen](ruby/eloquent_ruby.md)
