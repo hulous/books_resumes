@@ -19,6 +19,7 @@ Readed books notes and resumes.
  - [*Modern Software Engineering: Doing What Works to Build Better Software Faster* by David Farley](general_topics/modern_software_engineering.md)
  - [*The Software Craftsman: Professionalism, Pragmatism, and Pride* by Sandro Mancuso](general_topics/software_craftsman.md)
  - [*Software Craftsmanship: The New Imperative* by Pete McBreen](general_topics/software_craftsmanship.md)
+ - [*Working Effectively with Legacy Code* by Michael Feathers](general_topics/working_with_legacy.md)
  - Clean Series:
    - [*Clean Code* by Robert C. Martin](general_topics/clean_code.md)
    - [*Clean Craftsmanship: Disciplines, Standards, and Ethics* by Robert C. Martin](general_topics/clean_craftsmanship.md)
