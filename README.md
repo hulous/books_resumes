@@ -22,8 +22,8 @@ Readed books notes and resumes.
  - Clean Series:
    - [*Clean Code* by Robert C. Martin](general_topics/clean_code.md)
    - [*Clean Craftsmanship: Disciplines, Standards, and Ethics* by Robert C. Martin](general_topics/clean_craftsmanship.md)
-   - [*Clean Architecture: A Craftsman’s Guide to Software Structure and Design* by Robert C. Martin](general_topics/clean_architecture.md)  
-]
+   - [*Clean Architecture: A Craftsman’s Guide to Software Structure and Design* by Robert C. Martin](general_topics/clean_architecture.md)
+   - [*The Clean Coder: A Code of Conduct for Professional Programmers* by Robert C. Martin](general_topics/clean_coder.md)
 
 
 ## Ruby
