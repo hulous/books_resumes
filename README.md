@@ -2,6 +2,7 @@
 Readed books notes and resumes.
 
 ## General topic
+ - [*Design Patterns: Elements of Reusable Object-Oriented Software* by GoF](general_topics/design_patterns.md)
  - [*The Mythical Man-Month* by Frederick P. Brooks](general_topics/mythical_men_month.md)
  - [*The Pragmatic Programmer* by Andrew Hunt and David Thomas](general_topics/the_pragmatic_programer.md)
  - [*The Mythical Man-Month* by Frederick P. Brooks](general_topics/mythical_men_month.md)
