@@ -38,3 +38,4 @@ Readed books notes and resumes.
  - [*Practical Object-Oriented Design in Ruby: An Agile Primer* by Sandi Metz](ruby/poodr.md)
  - [*Refactoring: Ruby Edition* by Jay Fields, Shane Harvie, and Martin Fowler](ruby/refactoring_ruby.md)
  - [*Domain-Specific Languages* by Martin Fowler](ruby/dsl.md)
+ - [*Head First Ruby* by Jay McGavren](ruby/head_first.md)
