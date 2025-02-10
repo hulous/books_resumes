@@ -2,32 +2,33 @@
 Readed books notes and resumes.
 
 ## General topic
- - [*Design Patterns: Elements of Reusable Object-Oriented Software* by GoF](general_topics/design_patterns.md)
- - [*Head First Design Patterns* by Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra](general_topics/design_pattern_head_first.md)
  - [*The Mythical Man-Month* by Frederick P. Brooks](general_topics/mythical_men_month.md)
  - [*The Pragmatic Programmer* by Andrew Hunt and David Thomas](general_topics/the_pragmatic_programer.md)
- - [*The Mythical Man-Month* by Frederick P. Brooks](general_topics/mythical_men_month.md)
  - [*Code Complete 2*, Steve McConnell](general_topics/code_complete_2.md)
  - [*Refactoring: Improving the Design of Existing Code* by Martin Fowler](general_topics/refactoring.md)
  - [*Extreme Programming Explained: Embrace Change* by Kent Beck](general_topics/xp.md)
  - [*Patterns of Enterprise Application Architecture* by Author: Martin Fowler]()
  - [*Code Simplicity: The Fundamentals of Software* by Max Kanat-Alexander](general_topics/code_simplicity.md)
- - [*Object-Oriented Analysis and Design with Applications* by Grady Booch](general_topics/ooad.md)
  - [*Implementation Patterns* by Kent Beck](general_topics/implementation_patterns.md)
- - [*Object Thinking* by David West](general_topics/object_thinking.md)
  - [*Principles of Web API Design* by James Higginbotham](general_topics/web_api_design.md)
- - [*Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman* by Dave Hoover and Adewale Oshineye](general_topics/apprenticeship_patterns.md)
- - [*Growing Object-Oriented Software, Guided by Tests* by Steve Freeman & Nat Pryce](general_topics/growing_oop.md)
  - [*Modern Software Engineering: Doing What Works to Build Better Software Faster* by David Farley](general_topics/modern_software_engineering.md)
- - [*The Software Craftsman: Professionalism, Pragmatism, and Pride* by Sandro Mancuso](general_topics/software_craftsman.md)
- - [*Software Craftsmanship: The New Imperative* by Pete McBreen](general_topics/software_craftsmanship.md)
  - [*Working Effectively with Legacy Code* by Michael Feathers](general_topics/working_with_legacy.md)
+ - OOP:
+  - [*Growing Object-Oriented Software, Guided by Tests* by Steve Freeman & Nat Pryce](general_topics/growing_oop.md)
+  - [*Object Thinking* by David West](general_topics/object_thinking.md)
+  - [*Object-Oriented Analysis and Design with Applications* by Grady Booch](general_topics/ooad.md)
+ - Craftsmanship:
+  - [*Software Craftsmanship: The New Imperative* by Pete McBreen](general_topics/software_craftsmanship.md)
+  - [*The Software Craftsman: Professionalism, Pragmatism, and Pride* by Sandro Mancuso](general_topics/software_craftsman.md)
+  - [*Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman* by Dave Hoover and Adewale Oshineye](general_topics/apprenticeship_patterns.md)
  - Clean Series:
-   - [*Clean Code* by Robert C. Martin](general_topics/clean_code.md)
-   - [*Clean Craftsmanship: Disciplines, Standards, and Ethics* by Robert C. Martin](general_topics/clean_craftsmanship.md)
-   - [*Clean Architecture: A Craftsman’s Guide to Software Structure and Design* by Robert C. Martin](general_topics/clean_architecture.md)
-   - [*The Clean Coder: A Code of Conduct for Professional Programmers* by Robert C. Martin](general_topics/clean_coder.md)
-
+   - [*Clean Code* by Robert C. Martin](general_topics/clean/code.md)
+   - [*Clean Craftsmanship: Disciplines, Standards, and Ethics* by Robert C. Martin](general_topics/clean/craftsmanship.md)
+   - [*Clean Architecture: A Craftsman’s Guide to Software Structure and Design* by Robert C. Martin](general_topics/clean/architecture.md)
+   - [*The Clean Coder: A Code of Conduct for Professional Programmers* by Robert C. Martin](general_topics/clean/coder.md)
+ - Design Patterns
+   - [*Design Patterns: Elements of Reusable Object-Oriented Software* by GoF](general_topics/design_patterns.md)
+   - [*Head First Design Patterns* by Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra](general_topics/design_pattern_head_first.md)
 
 ## Ruby
  - [*Eloquent Ruby* by Russ Olsen](ruby/eloquent_ruby.md)
