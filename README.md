@@ -41,3 +41,4 @@ Readed books notes and resumes.
  - [*Domain-Specific Languages* by Martin Fowler](ruby/dsl.md)
  - [*Head First Ruby* by Jay McGavren](ruby/head_first.md)
  - [*Ruby Best Practices* by Gregory T. Brown](ruby/best_practices.md)
+ - [*Rails Test Prescriptions* by Noel Rappin](ruby/rails_test_prescriptions.md)
