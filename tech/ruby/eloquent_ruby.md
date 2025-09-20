@@ -1,26 +1,26 @@
 # *Eloquent Ruby* by Russ Olsen
 
 ## Introduction
-*Eloquent Ruby* is a guide to writing clear, concise, and idiomatic Ruby code. The book focuses on practical tips and best practices to help Ruby developers produce better software. It is divided into four parts, each addressing key aspects of Ruby programming.
+*Eloquentruby* is a guide to writing clear, concise, and idiomaticruby code. The book focuses on practical tips and best practices to helpruby developers produce better software. It is divided into four parts, each addressing key aspects ofruby programming.
 
 ---
 
-## Part 1: The Basics of Ruby
-### 1. Write Code That Looks Like Ruby
-- Embrace Ruby idioms instead of mimicking other languages.
+## Part 1: The Basics ofruby
+### 1. Write Code That Looks Likeruby
+- Embraceruby idioms instead of mimicking other languages.
 - Prefer single-line blocks for simple operations and multi-line blocks for complex logic.
 
 ### 2. Choose the Right Control Structure
 - Use `if`, `unless`, `while`, and `until` appropriately.
-- Favor Ruby’s `each`, `map`, and other enumerable methods over traditional `for` loops.
+- Favor tech/ruby’s `each`, `map`, and other enumerable methods over traditional `for` loops.
 
-### 3. Take Advantage of Ruby's Smart Collections
+### 3. Take Advantage ofruby's Smart Collections
 - Utilize `Array` and `Hash` methods like `select`, `reject`, and `inject` to process data concisely.
-- Avoid reinventing the wheel by leveraging Ruby’s rich standard library.
+- Avoid reinventing the wheel by leveraging tech/ruby’s rich standard library.
 
 ### 4. Strings, Symbols, and Regular Expressions
 - Use symbols (`:symbol`) for identifiers and constants, and strings (`"string"`) for textual data.
-- Harness Ruby’s regex capabilities to process text effectively.
+- Harness tech/ruby’s regex capabilities to process text effectively.
 
 ---
 
@@ -54,9 +54,9 @@
 
 ---
 
-## Part 4: Writing Effective Ruby Code
+## Part 4: Writing Effectiveruby Code
 ### 11. Testing Like a Pro
-- Write tests using Ruby testing frameworks like RSpec or Minitest.
+- Write tests usingruby testing frameworks like RSpec or Minitest.
 - Aim for clear and concise test cases that cover edge cases.
 
 ### 12. Refactoring: Making Bad Code Good
@@ -64,10 +64,10 @@
 - Simplify complex methods, remove duplication, and clarify intent.
 
 ### 13. Staying Out of Trouble
-- Follow Ruby community conventions and style guides.
+- Followruby community conventions and style guides.
 - Write code that is easy to read, maintain, and understand by others.
 
 ---
 
 ## Conclusion
-*Eloquent Ruby* is not just about writing code but about writing Ruby code in a way that is natural, idiomatic, and effective. By understanding and applying Ruby’s principles, developers can create elegant, powerful, and maintainable applications.
+*Eloquentruby* is not just about writing code but about writingruby code in a way that is natural, idiomatic, and effective. By understanding and applying tech/ruby’s principles, developers can create elegant, powerful, and maintainable applications.

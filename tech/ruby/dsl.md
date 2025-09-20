@@ -20,7 +20,7 @@
 
 ## Part 2: The Nature of DSLs  
 ### 3. Internal vs. External DSLs  
-- **Internal DSLs** (or **Embedded DSLs**) are built using the host language's syntax and tools (e.g., Ruby's RSpec for testing, or Scala's Akka for concurrency).  
+- **Internal DSLs** (or **Embedded DSLs**) are built using the host language's syntax and tools (e.g.,ruby's RSpec for testing, or Scala's Akka for concurrency).  
 - **External DSLs** have their own distinct syntax and usually require a parser to interpret (e.g., SQL, HTML).  
 
 ### 4. When to Use a DSL  
@@ -61,7 +61,7 @@
 ### 9. Embedding DSLs in Your Application  
 - **Internal DSLs** are often embedded within the host language for better integration and less overhead.  
 - They offer **ease of use** and **powerful abstractions** without requiring separate parsers or compilers.  
-- Popular tools for embedding DSLs include **Ruby's block syntax**, **Scala's combinator parsers**, and **Clojure's macros**.  
+- Popular tools for embedding DSLs include **tech/ruby's block syntax**, **Scala's combinator parsers**, and **Clojure's macros**.  
 
 ---
 
