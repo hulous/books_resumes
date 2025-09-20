@@ -1,5 +1,8 @@
 # Tech books resumes
-Readed books notes and resumes.q
+Readed books notes and resumes.
+
+## Mind
+ - [*Quantum Warrior: The Future of the Mind* by John Kehoe](mind/quantum_warrior.md)
 
 ## Tech
 
@@ -33,14 +36,14 @@ Readed books notes and resumes.q
    - [*Head First Design Patterns* by Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra](tech/general_topics/design_pattern_head_first.md)
 
 ### Ruby
- - [*Eloquent tech/ruby* by Russ Olsen](tech/ruby/eloquent_tech/ruby.md)
+ - [*Eloquent ruby* by Russ Olsen](tech/ruby/eloquent_tech/ruby.md)
  - [*The Rails Way* by Obie Fernandez](tech/ruby/rails_way.md)
- - [*The tech/ruby Way* by Hal Fulton and André Arko](tech/ruby/tech/ruby_way.md)
- - [*Programming tech/ruby: The Pragmatic Programmer's Guide* ("The Pickaxe") by Dave Thomas, with Chad Fowler and Andy Hunt](tech/ruby/pickaxe.md)
- - [*Polished tech/ruby Programming* by Jeremy Evans](tech/ruby/polished_tech/ruby.md)
- - [*Practical Object-Oriented Design in tech/ruby: An Agile Primer* by Sandi Metz](tech/ruby/poodr.md)
- - [*Refactoring: tech/ruby Edition* by Jay Fields, Shane Harvie, and Martin Fowler](tech/ruby/refactoring_tech/ruby.md)
+ - [*Theruby Way* by Hal Fulton and André Arko](tech/ruby/tech/ruby_way.md)
+ - [*Programming ruby: The Pragmatic Programmer's Guide* ("The Pickaxe") by Dave Thomas, with Chad Fowler and Andy Hunt](tech/ruby/pickaxe.md)
+ - [*Polished ruby Programming* by Jeremy Evans](tech/ruby/polished_tech/ruby.md)
+ - [*Practical Object-Oriented Design in ruby: An Agile Primer* by Sandi Metz](tech/ruby/poodr.md)
+ - [*Refactoring: ruby Edition* by Jay Fields, Shane Harvie, and Martin Fowler](tech/ruby/refactoring_tech/ruby.md)
  - [*Domain-Specific Languages* by Martin Fowler](tech/ruby/dsl.md)
- - [*Head First tech/ruby* by Jay McGavren](tech/ruby/head_first.md)
- - [*tech/ruby Best Practices* by Gregory T. Brown](tech/ruby/best_practices.md)
+ - [*Head First ruby* by Jay McGavren](tech/ruby/head_first.md)
+ - [*Ruby Best Practices* by Gregory T. Brown](tech/ruby/best_practices.md)
  - [*Rails Test Prescriptions* by Noel Rappin](tech/ruby/rails_test_prescriptions.md)
