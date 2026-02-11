@@ -8,10 +8,10 @@
 ## Part 1: The Attitude of a Professional  
 ### 1. **What It Means to Be a Professional**  
 - A professional developer **takes ownership** of their work and ensures quality.  
-- **Excuses like “It works on my machine” or “I didn’t have time to test” are unacceptable.**  
+- **Excuses like "It works on my machine" or "I didn’t have time to test" are unacceptable.**  
 - Professionalism means being **reliable, disciplined, and accountable**.  
 
-### 2. **Saying “No” and Setting Expectations**  
+### 2. **Saying "No" and Setting Expectations**  
 - Developers must **know their limits** and not accept impossible deadlines.  
 - Saying **"yes" to everything leads to burnout and poor-quality software**.  
 - A professional **negotiates realistic expectations** rather than blindly agreeing to demands.  
