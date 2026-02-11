@@ -7,25 +7,26 @@ Readed books notes and resumes.
 ## Tech
 
 ### General topic
- - [*The Mythical Man-Month* by Frederick P. Brooks](tech/general_topics/mythical_men_month.md)
- - [*The Pragmatic Programmer* by Andrew Hunt and David Thomas](tech/general_topics/the_pragmatic_programer.md)
- - [*Code Complete 2*, Steve McConnell](tech/general_topics/code_complete_2.md)
- - [*Refactoring: Improving the Design of Existing Code* by Martin Fowler](tech/general_topics/refactoring.md)
- - [*Extreme Programming Explained: Embrace Change* by Kent Beck](tech/general_topics/xp.md)
- - [*Patterns of Enterprise Application Architecture* by Author: Martin Fowler]()
- - [*Code Simplicity: The Fundamentals of Software* by Max Kanat-Alexander](tech/general_topics/code_simplicity.md)
- - [*Implementation Patterns* by Kent Beck](tech/general_topics/implementation_patterns.md)
- - [*Principles of Web API Design* by James Higginbotham](tech/general_topics/web_api_design.md)
- - [*Modern Software Engineering: Doing What Works to Build Better Software Faster* by David Farley](tech/general_topics/modern_software_engineering.md)
- - [*Working Effectively with Legacy Code* by Michael Feathers](tech/general_topics/working_with_legacy.md)
+ - Global best pratices:
+   - [*The Mythical Man-Month* by Frederick P. Brooks](tech/general_topics/mythical_men_month.md)
+   - [*The Pragmatic Programmer* by Andrew Hunt and David Thomas](tech/general_topics/the_pragmatic_programer.md)
+   - [*Code Complete 2*, Steve McConnell](tech/general_topics/code_complete_2.md)
+   - [*Refactoring: Improving the Design of Existing Code* by Martin Fowler](tech/general_topics/refactoring.md)
+   - [*Extreme Programming Explained: Embrace Change* by Kent Beck](tech/general_topics/xp.md)
+   - [*Patterns of Enterprise Application Architecture* by Author: Martin Fowler]()
+   - [*Code Simplicity: The Fundamentals of Software* by Max Kanat-Alexander](tech/general_topics/code_simplicity.md)
+   - [*Implementation Patterns* by Kent Beck](tech/general_topics/implementation_patterns.md)
+   - [*Principles of Web API Design* by James Higginbotham](tech/general_topics/web_api_design.md)
+   - [*Modern Software Engineering: Doing What Works to Build Better Software Faster* by David Farley](tech/general_topics/modern_software_engineering.md)
+   - [*Working Effectively with Legacy Code* by Michael Feathers](tech/general_topics/working_with_legacy.md)
  - OOP:
-  - [*Growing Object-Oriented Software, Guided by Tests* by Steve Freeman & Nat Pryce](tech/general_topics/growing_oop.md)
-  - [*Object Thinking* by David West](tech/general_topics/object_thinking.md)
-  - [*Object-Oriented Analysis and Design with Applications* by Grady Booch](tech/general_topics/ooad.md)
+   - [*Growing Object-Oriented Software, Guided by Tests* by Steve Freeman & Nat Pryce](tech/general_topics/growing_oop.md)
+   - [*Object Thinking* by David West](tech/general_topics/object_thinking.md)
+   - [*Object-Oriented Analysis and Design with Applications* by Grady Booch](tech/general_topics/ooad.md)
  - Craftsmanship:
-  - [*Software Craftsmanship: The New Imperative* by Pete McBreen](tech/general_topics/software_craftsmanship.md)
-  - [*The Software Craftsman: Professionalism, Pragmatism, and Pride* by Sandro Mancuso](tech/general_topics/software_craftsman.md)
-  - [*Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman* by Dave Hoover and Adewale Oshineye](tech/general_topics/apprenticeship_patterns.md)
+   - [*Software Craftsmanship: The New Imperative* by Pete McBreen](tech/general_topics/software_craftsmanship.md)
+   - [*The Software Craftsman: Professionalism, Pragmatism, and Pride* by Sandro Mancuso](tech/general_topics/software_craftsman.md)
+   - [*Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman* by Dave Hoover and Adewale Oshineye](tech/general_topics/apprenticeship_patterns.md)
  - Clean Series:
    - [*Clean Code* by Robert C. Martin](tech/general_topics/clean/code.md)
    - [*Clean Craftsmanship: Disciplines, Standards, and Ethics* by Robert C. Martin](tech/general_topics/clean/craftsmanship.md)
