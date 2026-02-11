@@ -1,29 +1,29 @@
-# *The Ruby Way* by Hal Fulton and André Arko
+# *Theruby Way* by Hal Fulton and André Arko
 
 ## Introduction
-*The Ruby Way* is a comprehensive guide to mastering Ruby by leveraging its idiomatic features, advanced techniques, and best practices. The book covers both foundational concepts and more advanced topics, showcasing how to solve real-world problems using Ruby effectively and elegantly.
+*Theruby Way* is a comprehensive guide to masteringruby by leveraging its idiomatic features, advanced techniques, and best practices. The book covers both foundational concepts and more advanced topics, showcasing how to solve real-world problems usingruby effectively and elegantly.
 
 ---
 
-## Part 1: Ruby Basics
-### 1. The Ruby Philosophy
-- Ruby emphasizes simplicity, elegance, and productivity.
+## Part 1:ruby Basics
+### 1. Theruby Philosophy
+-ruby emphasizes simplicity, elegance, and productivity.
 - Favors **principle of least surprise**: Code behaves as expected for experienced developers.
 
-### 2. Getting Started with Ruby
-- Setting up the Ruby environment.
+### 2. Getting Started withruby
+- Setting up theruby environment.
 - Using `irb` or `pry` for interactive coding and experimentation.
 
-### 3. Core Ruby Syntax
+### 3. Coreruby Syntax
 - Fundamental concepts: variables, operators, control structures (`if`, `case`, `while`, etc.).
-- Blocks and iterators as a core feature of Ruby's functional style.
+- Blocks and iterators as a core feature ofruby's functional style.
 
 ---
 
 ## Part 2: Working with Data
 ### 4. Strings and Regular Expressions
 - Manipulating strings with methods like `sub`, `gsub`, and interpolation (`"#{value}"`).
-- Ruby’s powerful regex support for text matching and substitution.
+-ruby’s powerful regex support for text matching and substitution.
 
 ### 5. Arrays and Hashes
 - Core collection types for ordered (`Array`) and key-value data (`Hash`).
@@ -39,9 +39,9 @@
 
 ---
 
-## Part 3: Ruby Programming Techniques
+## Part 3:ruby Programming Techniques
 ### 8. Classes and Modules
-- Ruby’s object-oriented programming model: classes, objects, and inheritance.
+-ruby’s object-oriented programming model: classes, objects, and inheritance.
 - Using modules for mixins and namespaces.
 
 ### 9. Metaprogramming
@@ -53,29 +53,29 @@
 - Handling streams, directories, and temporary files.
 
 ### 11. Error Handling
-- Raise and rescue exceptions using Ruby’s exception-handling model.
+- Raise and rescue exceptions usingruby’s exception-handling model.
 - Best practices for creating and managing custom exceptions.
 
 ---
 
-## Part 4: Advanced Ruby Features
+## Part 4: Advancedruby Features
 ### 12. Threads and Concurrency
-- Ruby's threading model for concurrent programming.
-- Alternatives like `Fiber` and libraries like `Concurrent-ruby`.
+-ruby's threading model for concurrent programming.
+- Alternatives like `Fiber` and libraries like `Concurrent-tech/ruby`.
 
 ### 13. Networking and Web Development
 - Building networked applications with `Socket`, `Net::HTTP`, and `OpenURI`.
-- Basics of web development and using Ruby to create simple web servers.
+- Basics of web development and usingruby to create simple web servers.
 
 ### 14. Working with Databases
-- Using Ruby’s `DBI` or `ActiveRecord` for interacting with databases.
+- Usingruby’s `DBI` or `ActiveRecord` for interacting with databases.
 - Query execution, migrations, and best practices for database connectivity.
 
 ---
 
 ## Part 5: Tools and Libraries
-### 15. RubyGems and Libraries
-- Using `gem` to install and manage Ruby libraries.
+### 15. tech/rubyGems and Libraries
+- Using `gem` to install and manageruby libraries.
 - Creating and distributing your own gems.
 
 ### 16. Testing and Debugging
@@ -84,25 +84,25 @@
 
 ### 17. Automating Tasks with Rake
 - Use `Rake` to define and execute tasks for building, testing, and deployment.
-- Integrate Rake with custom Ruby scripts for powerful automation.
+- Integrate Rake with customruby scripts for powerful automation.
 
 ---
 
-## Part 6: Practical Ruby Applications
+## Part 6: Practicalruby Applications
 ### 18. Building Command-Line Utilities
 - Create interactive scripts using `OptionParser` and other utilities.
 - Enhance usability with configuration files and command-line arguments.
 
-### 19. Ruby and the Web
+### 19.ruby and the Web
 - Use libraries like `Sinatra` and `Rails` for web development.
-- REST APIs and JSON handling with Ruby.
+- REST APIs and JSON handling withruby.
 
-### 20. Ruby for System Administration
+### 20.ruby for System Administration
 - Automate system tasks: file management, process control, and monitoring.
 - Scripting tools like `etc` and external tools integration.
 
 ---
 
 ## Conclusion
-*The Ruby Way* emphasizes solving problems effectively and idiomatically, showcasing the power and flexibility of Ruby as a programming language. It’s a practical resource for developers at all levels, promoting clean, elegant, and maintainable solutions.
+*Theruby Way* emphasizes solving problems effectively and idiomatically, showcasing the power and flexibility ofruby as a programming language. It’s a practical resource for developers at all levels, promoting clean, elegant, and maintainable solutions.
 

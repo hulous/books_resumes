@@ -1,7 +1,7 @@
-# *Refactoring: Ruby Edition* by Jay Fields, Shane Harvie, and Martin Fowler
+# *Refactoring:ruby Edition* by Jay Fields, Shane Harvie, and Martin Fowler
 
 ## Introduction
-*Refactoring: Ruby Edition* adapts Martin Fowler’s classic refactoring principles to the Ruby programming language. The book teaches how to improve the design, readability, and maintainability of Ruby code through small, controlled changes. 
+*Refactoring:ruby Edition* adapts Martin Fowler’s classic refactoring principles to theruby programming language. The book teaches how to improve the design, readability, and maintainability ofruby code through small, controlled changes. 
 
 ---
 
@@ -61,7 +61,7 @@ Common code smells include:
 
 ---
 
-## Part 4: Practical Refactoring in Ruby  
+## Part 4: Practical Refactoring inruby  
 ### 9. Refactoring Legacy Code  
 - **Write Characterization Tests** – Add tests to document existing behavior before refactoring.  
 - **Incremental Changes** – Improve code step by step to avoid breaking functionality.  
@@ -73,5 +73,5 @@ Common code smells include:
 ---
 
 ## Conclusion  
-*Refactoring: Ruby Edition* emphasizes making small, incremental changes to improve code clarity and maintainability. By recognizing code smells and applying structured refactoring techniques, Ruby developers can create cleaner, more efficient, and easier-to-maintain applications.  
+*Refactoring:ruby Edition* emphasizes making small, incremental changes to improve code clarity and maintainability. By recognizing code smells and applying structured refactoring techniques,ruby developers can create cleaner, more efficient, and easier-to-maintain applications.  
 

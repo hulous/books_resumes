@@ -1,7 +1,7 @@
 # *The Rails Way* by Obie Fernandez
 
 ## Introduction
-*The Rails Way* is a comprehensive guide to developing modern web applications using Ruby on Rails. The book delves into the Rails framework's design principles, best practices, and practical techniques for building scalable and maintainable applications.
+*The Rails Way* is a comprehensive guide to developing modern web applications usingruby on Rails. The book delves into the Rails framework's design principles, best practices, and practical techniques for building scalable and maintainable applications.
 
 ---
 
@@ -22,7 +22,7 @@
 
 ## Part 2: Active Record (Models)
 ### 4. Active Record Basics
-- Active Record as an ORM maps database tables to Ruby classes.
+- Active Record as an ORM maps database tables toruby classes.
 - Common methods: `find`, `where`, `save`, `update`, and `destroy`.
 
 ### 5. Associations
@@ -49,7 +49,7 @@
 - Use filters like `before_action` to enforce logic across multiple actions.
 
 ### 10. Views
-- Views render HTML using Embedded Ruby (ERB) or alternative templating engines like Haml or Slim.
+- Views render HTML using Embeddedruby (ERB) or alternative templating engines like Haml or Slim.
 - Use partials and layouts for reusable, DRY HTML.
 
 ---

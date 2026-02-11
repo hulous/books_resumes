@@ -1,7 +1,7 @@
-# *Practical Object-Oriented Design in Ruby: An Agile Primer* by Sandi Metz
+# *Practical Object-Oriented Design inruby: An Agile Primer* by Sandi Metz
 
 ## Overview
-Published in 2012, *Practical Object-Oriented Design in Ruby* (*POODR*) is a comprehensive guide to writing clean, maintainable, and scalable object-oriented code. Although written with Ruby as the primary language, the principles and practices apply broadly to any object-oriented programming language. The book emphasizes designing systems that are flexible, easy to change, and cost-effective to maintain.
+Published in 2012, *Practical Object-Oriented Design inruby* (*POODR*) is a comprehensive guide to writing clean, maintainable, and scalable object-oriented code. Although written withruby as the primary language, the principles and practices apply broadly to any object-oriented programming language. The book emphasizes designing systems that are flexible, easy to change, and cost-effective to maintain.
 
 ---
 
@@ -89,6 +89,6 @@ The book discusses common object-oriented design patterns, including:
 ---
 
 ## Legacy
-*POODR* is highly regarded as a guide to writing maintainable and elegant object-oriented code. While Ruby is the language used, the book’s lessons are language-agnostic and apply to all object-oriented programming paradigms.
+*POODR* is highly regarded as a guide to writing maintainable and elegant object-oriented code. Whileruby is the language used, the book’s lessons are language-agnostic and apply to all object-oriented programming paradigms.
 
 ---

@@ -2,7 +2,7 @@
 # *Rails Test Prescriptions* by Noel Rappin
 
 ## Introduction
-*Rails Test Prescriptions* is a comprehensive, pragmatic guide to **testing Ruby on Rails applications**. It teaches testing from the ground up, starting with simple tests and evolving into sophisticated strategies using **RSpec**, **Minitest**, **Capybara**, and **FactoryBot**. The book focuses on **test-driven development (TDD)** and writing tests that improve **confidence, maintainability, and design**.
+*Rails Test Prescriptions* is a comprehensive, pragmatic guide to **testingruby on Rails applications**. It teaches testing from the ground up, starting with simple tests and evolving into sophisticated strategies using **RSpec**, **Minitest**, **Capybara**, and **FactoryBot**. The book focuses on **test-driven development (TDD)** and writing tests that improve **confidence, maintainability, and design**.
 
 ---
 
@@ -42,7 +42,7 @@
 - Focus on **business logic** inside models.
 - Test validations, associations, and custom methods.
 - Example using RSpec:
-  ```ruby
+  ```tech/ruby
   describe User do
     it "is invalid without an email" do
       user = User.new(email: nil)
@@ -57,7 +57,7 @@
 - **FactoryBot** helps create flexible test data.
 - Avoid brittle **fixtures** (static data).
 - Example:
-  ```ruby
+  ```tech/ruby
   FactoryBot.define do
     factory :user do
       email { "test@example.com" }
@@ -72,7 +72,7 @@
 - Controllers should be **thin**; test behavior, not internals.
 - Use request specs (RSpec) or controller tests (Minitest).
 - Example:
-  ```ruby
+  ```tech/ruby
   describe "GET /users" do
     it "returns a success response" do
       get users_path
@@ -87,7 +87,7 @@
 - Use **Capybara** for end-to-end tests that simulate user interaction.
 - Useful for checking **JavaScript, navigation, form submission**.
 - Example:
-  ```ruby
+  ```tech/ruby
   feature "User signs in" do
     scenario "with valid credentials" do
       visit login_path
