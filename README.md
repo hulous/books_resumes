@@ -4,6 +4,8 @@ Readed books notes and resumes.
 ## Mind
  - [*Quantum Warrior: The Future of the Mind* by John Kehoe](mind/quantum_warrior.md)
  - [*Man’s Search for Meaning* by Viktor E. Frankl](mind/search_for_meaning.md)
+ - [# *Limitless: How to Ignore Everybody, Carve Your Own Path, and Live Your Best Life* by Laura Gassner Otting
+](mind/limitless.md)
 
 ## Tech
 
