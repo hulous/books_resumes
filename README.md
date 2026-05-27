@@ -3,6 +3,7 @@ Readed books notes and resumes.
 
 ## Mind
  - [*Quantum Warrior: The Future of the Mind* by John Kehoe](mind/quantum_warrior.md)
+ - [*Man’s Search for Meaning* by Viktor E. Frankl](mind/search_for_meaning.md)
 
 ## Tech
 
