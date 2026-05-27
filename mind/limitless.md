@@ -14,7 +14,7 @@ The book focuses on breaking through self-imposed limitations, rejecting externa
 - External success often creates an illusion of accomplishment while internally producing emptiness or stagnation.  
 - Achievement alone is not enough if it is disconnected from meaning and personal identity.  
 
-### 2. Consonance — Alignment Between Inner and Outer Life  
+### 2. Consonance: Alignment Between Inner and Outer Life  
 - Otting introduces the concept of **“consonance”**, where your work, actions, ambitions, and values align.  
 - Real fulfillment happens when:  
   - What you do  
@@ -41,7 +41,7 @@ The book focuses on breaking through self-imposed limitations, rejecting externa
 ### 5. Reinvention is Necessary  
 - Identity should not become fixed around a single role, title, or achievement.  
 - People evolve, and careers/lives should evolve with them.  
-- Reinvention is not failure — it is adaptation and expansion.  
+- Reinvention is not failure, it is adaptation and expansion.  
 
 ---
 
@@ -102,7 +102,7 @@ Ask:
 - Pursuing authenticity can create tension with family, coworkers, or societal expectations.  
 - Reinvention may involve financial instability, uncertainty, or temporary setbacks.  
 - The pursuit of limitless potential can itself become unhealthy if it turns into constant dissatisfaction or endless optimization.  
-- Freedom requires responsibility — you cannot blame systems or expectations forever once you recognize your agency.  
+- Freedom requires responsibility. You cannot blame systems or expectations forever once you recognize your agency.  
 
 ---
 
@@ -117,4 +117,4 @@ The book encourages readers to:
 - Pursue meaningful contribution and autonomy  
 - Build a life rooted in authenticity and alignment  
 
-The central message is that a meaningful life is not discovered passively — it is consciously designed through courage, self-awareness, and intentional action.
+The central message is that a meaningful life is not discovered passively. It is consciously designed through courage, self-awareness, and intentional action.
