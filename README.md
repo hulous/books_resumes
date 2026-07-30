@@ -8,6 +8,8 @@ Readed books notes and resumes.
 ](mind/limitless.md)
  - [*Do What You Love, The Money Will Follow: Discovering Your Right Livelihood* by Marsha Sinetar
 ](mind/do_what_you_love.md)
+ - [*Mastery* by Robert Greene](mind/mastery.md)
+
 
 ## Tech
 
