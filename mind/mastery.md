@@ -7,24 +7,24 @@ The central thesis is that **mastery is not an innate gift but the result of a l
 
 ---
 
-# Part 1: Discover Your Calling
+## Part 1: Discover Your Calling
 
-## 1. Find Your Life's Task
+### 1. Find Your Life's Task
 - Every person has unique inclinations and natural interests.
 - Mastery begins by discovering work that genuinely fascinates you.
 - External rewards (money, status, prestige) should not be the primary motivation.
 - Intrinsic motivation creates the persistence necessary for long-term excellence.
 
-### Key Principles
+#### Key Principles
 - Pay attention to childhood interests.
 - Notice activities that make you lose track of time.
 - Build your career around curiosity rather than security.
 
 ---
 
-# Part 2: Submit to Reality — The Apprenticeship Phase
+## Part 2: Submit to Reality — The Apprenticeship Phase
 
-## 2. Accept Being a Beginner
+### 2. Accept Being a Beginner
 
 Mastery always starts with apprenticeship.
 
@@ -36,7 +36,7 @@ This phase often feels:
 
 However, it builds the foundation for future creativity.
 
-### Learn Before Leading
+#### Learn Before Leading
 
 Instead of trying to impress others:
 
@@ -49,7 +49,7 @@ Great masters spent years learning before becoming innovators.
 
 ---
 
-## 3. Learn Deeply
+### 3. Learn Deeply
 
 Passive learning is ineffective.
 
@@ -64,7 +64,7 @@ Learning should become active experimentation.
 
 ---
 
-## 4. Value Practical Experience
+### 4. Value Practical Experience
 
 Books are valuable.
 
@@ -78,9 +78,9 @@ Ideas should constantly be tested against real situations.
 
 ---
 
-# Part 3: Absorb the Hidden Rules
+## Part 3: Absorb the Hidden Rules
 
-## 5. Develop Social Intelligence
+### 5. Develop Social Intelligence
 
 Technical skill alone is insufficient.
 
@@ -94,7 +94,7 @@ Mastery also requires understanding:
 
 Successful masters observe people carefully instead of reacting emotionally.
 
-### Social Intelligence Includes
+#### Social Intelligence Includes
 
 - Listening more than speaking
 - Reading motivations
@@ -104,7 +104,7 @@ Successful masters observe people carefully instead of reacting emotionally.
 
 ---
 
-## 6. Find Mentors
+### 6. Find Mentors
 
 Mentors accelerate learning by helping you avoid mistakes.
 
@@ -118,7 +118,7 @@ Eventually, you must surpass the mentor by developing your own style.
 
 ---
 
-## 7. Learn From Everyone
+### 7. Learn From Everyone
 
 Every colleague, customer, competitor, and manager teaches something.
 
@@ -132,9 +132,9 @@ Every interaction becomes education.
 
 ---
 
-# Part 4: Build Creative Power
+## Part 4: Build Creative Power
 
-## 8. Combine Knowledge
+### 8. Combine Knowledge
 
 Creativity is rarely spontaneous.
 
@@ -148,7 +148,7 @@ The broader your knowledge:
 
 ---
 
-## 9. Think Independently
+### 9. Think Independently
 
 Experts eventually stop copying.
 
@@ -166,7 +166,7 @@ Innovation starts by challenging accepted conventions.
 
 ---
 
-## 10. Embrace Experimentation
+### 10. Embrace Experimentation
 
 Failure is information.
 
@@ -178,9 +178,9 @@ Iteration leads to breakthroughs.
 
 ---
 
-# Part 5: Emotional Mastery
+## Part 5: Emotional Mastery
 
-## 11. Control Your Emotions
+### 11. Control Your Emotions
 
 Strong emotions distort judgment.
 
@@ -196,7 +196,7 @@ Emotional stability allows better decisions.
 
 ---
 
-## 12. Develop Resilience
+### 12. Develop Resilience
 
 Every master experiences:
 
@@ -211,7 +211,7 @@ Rather than seeing failure as defeat, masters treat it as data.
 
 ---
 
-## 13. Avoid Ego
+### 13. Avoid Ego
 
 Ego blocks learning.
 
@@ -226,9 +226,9 @@ Humility allows continuous improvement.
 
 ---
 
-# Part 6: Achieving Mastery
+## Part 6: Achieving Mastery
 
-## 14. Develop Intuition
+### 14. Develop Intuition
 
 After thousands of hours of practice, conscious effort becomes unconscious expertise.
 
@@ -244,7 +244,7 @@ Experts often make excellent decisions rapidly because they recognize situations
 
 ---
 
-## 15. Integrate Rationality and Creativity
+### 15. Integrate Rationality and Creativity
 
 True mastery combines:
 
@@ -259,7 +259,7 @@ The greatest innovators balance both.
 
 ---
 
-## 16. Continue Learning Forever
+### 16. Continue Learning Forever
 
 Mastery is not a destination.
 
@@ -271,18 +271,18 @@ Continuous learning prevents stagnation.
 
 ---
 
-# Common Obstacles
+## Common Obstacles
 
 Greene identifies several barriers to mastery:
 
-## Impatience
+### Impatience
 Wanting results too quickly.
 
 **Solution:** Trust the long-term process.
 
 ---
 
-## Distractions
+### Distractions
 
 Modern life encourages constant interruption.
 
@@ -290,7 +290,7 @@ Modern life encourages constant interruption.
 
 ---
 
-## Fear of Failure
+### Fear of Failure
 
 Fear prevents experimentation.
 
@@ -298,7 +298,7 @@ Fear prevents experimentation.
 
 ---
 
-## Conformity
+### Conformity
 
 Following the crowd limits creativity.
 
@@ -306,7 +306,7 @@ Following the crowd limits creativity.
 
 ---
 
-## Arrogance
+### Arrogance
 
 Believing you have nothing left to learn.
 
@@ -314,30 +314,30 @@ Believing you have nothing left to learn.
 
 ---
 
-# Practical Lessons
+## Practical Lessons
 
-## Adopt the Apprentice Mindset
+### Adopt the Apprentice Mindset
 - Focus on learning rather than impressing.
 - Seek difficult work.
 - Practice intentionally.
 
 ---
 
-## Practice Deliberately
+### Practice Deliberately
 - Break skills into components.
 - Receive feedback.
 - Repeat until fluent.
 
 ---
 
-## Build Deep Focus
+### Build Deep Focus
 - Eliminate distractions.
 - Schedule uninterrupted work.
 - Prefer depth over multitasking.
 
 ---
 
-## Read Broadly
+### Read Broadly
 Study:
 - history
 - psychology
@@ -350,7 +350,7 @@ Creativity grows from diverse knowledge.
 
 ---
 
-## Find Great Teachers
+### Find Great Teachers
 
 Choose mentors who:
 - challenge your assumptions
@@ -359,7 +359,7 @@ Choose mentors who:
 
 ---
 
-## Observe Constantly
+### Observe Constantly
 
 Become a student of:
 
@@ -373,7 +373,7 @@ Observation often teaches more than instruction.
 
 ---
 
-## Never Stop Improving
+### Never Stop Improving
 
 Mastery requires:
 
@@ -386,7 +386,7 @@ Learning never truly ends.
 
 ---
 
-# Memorable Quotes
+## Memorable Quotes
 
 > "The future belongs to those who learn more skills and combine them in creative ways."
 
@@ -396,7 +396,7 @@ Learning never truly ends.
 
 ---
 
-# Core Takeaways
+## Core Takeaways
 
 - Mastery is built, not inherited.
 - Choose work that genuinely interests you.
@@ -411,6 +411,6 @@ Learning never truly ends.
 
 ---
 
-# One-Sentence Summary
+## One-Sentence Summary
 
 **Mastery argues that extraordinary achievement is the result of discovering meaningful work, embracing years of disciplined apprenticeship, continuously learning, mastering both technical and human skills, and relentlessly refining your craft through deliberate practice and curiosity.**
